@@ -1,7 +1,7 @@
 # FaceID
 Based on Face Recognition
 
-###Ubuntu OS:
+##Ubuntu OS:
 
 - python installation:
 '$ sudo apt-get update'
@@ -18,3 +18,6 @@ Based on Face Recognition
 - launching the application:
 '$ python3 FrontFace.py'
 '$ python FrontFace.py'
+
+- quitting the application:
+just press 'q'
