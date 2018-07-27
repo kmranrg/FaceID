@@ -7,7 +7,7 @@ while True:
 
 	gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
 	eyes = eyeCascade.detectMultiScale(gray,
-		scaleFactor=1.1,
+		scaleFactor=1.2,
 		minNeighbors=5,
 		minSize=(30,30))
 
