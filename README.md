@@ -1,8 +1,20 @@
 # FaceID
 Based on Face Recognition
 
-  How to run?
-  Just open the command line terminal and launch the "FrontFace.py" file
+###Ubuntu OS:
 
-  How to quit the application?
-  Just press "q" to shut down the application
+- python installation:
+'$ sudo apt-get update'
+'$ sudo apt-get install python3.6'
+
+- pip installation:
+'$ sudo apt-get install python3-pip'
+'$ sudo apt-get install python-pip'
+
+- opencv installation:
+'$ pip3 install opencv-python'
+'$ pip install opencv-python'
+
+- launching the application:
+'$ python3 FrontFace.py'
+'$ python FrontFace.py'
