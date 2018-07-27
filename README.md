@@ -1,7 +1,7 @@
 # FaceID
 Based on Face Recognition
 
-##Ubuntu OS:
+### Ubuntu OS:
 
 - python installation:
 '$ sudo apt-get update'
