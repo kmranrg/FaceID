@@ -1,23 +1,27 @@
 # FaceID
-Based on Face Recognition
+It recognises the human face and eyes
 
-### Ubuntu OS:
+### For Ubuntu OS:
 
 - python installation:
-'$ sudo apt-get update'
-'$ sudo apt-get install python3.6'
+` $ sudo apt-get update `
+` $ sudo apt-get install python3.6 `
 
 - pip installation:
-'$ sudo apt-get install python3-pip'
-'$ sudo apt-get install python-pip'
+` $ sudo apt-get install python3-pip `
+` $ sudo apt-get install python-pip `
 
 - opencv installation:
-'$ pip3 install opencv-python'
-'$ pip install opencv-python'
+` $ pip3 install opencv-python `
+` $ pip install opencv-python `
 
-- launching the application:
-'$ python3 FrontFace.py'
-'$ python FrontFace.py'
+- launching the face detection application:
+` $ python3 FrontFace.py `
+` $ python FrontFace.py `
+
+- launching the face detection application:
+` $ python3 Eyes.py `
+` $ python Eyes.py `
 
 - quitting the application:
-just press 'q'
+just press ` q `
