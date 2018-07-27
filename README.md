@@ -19,7 +19,7 @@ It recognises the human face and eyes
 ` $ python3 FrontFace.py `
 ` $ python FrontFace.py `
 
-- launching the face detection application:
+- launching the eyes detection application:
 ` $ python3 Eyes.py `
 ` $ python Eyes.py `
 
