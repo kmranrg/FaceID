@@ -24,8 +24,8 @@ It recognises the human face and eyes
 ` $ python Eyes.py `
 
 - launching the smile detection application:
-` $ python3 smile.py `
-` $ python smile.py 
+` $ python3 Smile.py `
+` $ python Smile.py `
 
 - quitting the application:
 just press ` q `
