@@ -16,16 +16,16 @@ It recognises the human face and eyes
 ` $ pip install opencv-python `
 
 - launching the face detection application:
-` $ python3 FrontFace.py `
-` $ python FrontFace.py `
+` $ python3 front_face_detect.py `
+` $ python front_face_detect.py `
 
 - launching the eyes detection application:
-` $ python3 Eyes.py `
-` $ python Eyes.py `
+` $ python3 eyes_detect.py `
+` $ python eyes_detect.py `
 
 - launching the smile detection application:
-` $ python3 Smile.py `
-` $ python Smile.py `
+` $ python3 smile_detect.py `
+` $ python smile_detect.py `
 
 - quitting the application:
 just press ` q `
